@@ -1,60 +1,17 @@
-# Title
-
+# Easy Hummus Recipe
 ## Section 1
 ### Ingredients
-- 10g of this
-- 20g of that
+- 1 (15-ounce) can chickpeas or 1 1/2 cups (250 grams) cooked chickpeas
+- 1/4 cup (60 ml) fresh lemon juice (1 large lemon)
+- 1/4 cup (60 ml) well-stirred tahini
+- 1 small garlic clove, minced
+- 2 tablespoons (30 ml) extra-virgin olive oil, plus more for serving
+- 1/2 teaspoon ground cumin
+- salt to taste
+- 2 to 3 tablespoons (30 to 45 ml) water
+- Dash ground paprika or sumac, for serving
 ### Steps
-1. do this
-2. do that
-
-## Section 2
-### Ingredients
-- 30g of this
-- 40g of that
-### Steps
-1. do this
-2. do that
-
-
-
-
-Below are instructions and samples for formatting
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ah-jia/recipe-template/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ah-jia/recipe-template/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. In the bowl of a food processor, combine the tahini and lemon juice and process for 1 minute, scrape the sides and bottom of the bowl then process for 30 seconds more. This extra time helps "whip" or "cream" the tahini, making the hummus smooth and creamy.
+2. Add the olive oil, minced garlic, cumin and a 1/2 teaspoon of salt to the whipped tahini and lemon juice. Process for 30 seconds, scrape the sides and bottom of the bowl then process another 30 seconds or until well blended. Open, drain, and rinse the chickpeas. Add half of the chickpeas to the food processor and process for 1 minute. Scrape sides and bottom of the bowl, then add remaining chickpeas and process until thick and quite smooth; 1 to 2 minutes.
+3. Most likely the hummus will be too thick or still hav etiny bits of chickpea. To fix htis, with the food processor turned on, slowly add 2 to 3 tblespoons of water until you reach the perfect consistency.
+4. Taste for salt and adjust as needed. Serve hummus with a drizzle of olive oil and dash of paprika. Store homemade hummus in an airtight container and refrigerate up to one week.

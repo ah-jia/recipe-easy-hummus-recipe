@@ -1,4 +1,5 @@
 # Easy Hummus Recipe
+
 ## Section 1
 ### Ingredients
 - 1 (15-ounce) can chickpeas or 1 1/2 cups (250 grams) cooked chickpeas

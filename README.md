@@ -1,3 +1,5 @@
+[Back to homepage](https://ah-jia.github.io/)
+
 # Easy Hummus Recipe
 
 ## Section 1
@@ -17,3 +19,5 @@
 2. Add the olive oil, minced garlic, cumin and a 1/2 teaspoon of salt to the whipped tahini and lemon juice. Process for 30 seconds, scrape the sides and bottom of the bowl then process another 30 seconds or until well blended. Open, drain, and rinse the chickpeas. Add half of the chickpeas to the food processor and process for 1 minute. Scrape sides and bottom of the bowl, then add remaining chickpeas and process until thick and quite smooth; 1 to 2 minutes.
 3. Most likely the hummus will be too thick or still hav etiny bits of chickpea. To fix htis, with the food processor turned on, slowly add 2 to 3 tblespoons of water until you reach the perfect consistency.
 4. Taste for salt and adjust as needed. Serve hummus with a drizzle of olive oil and dash of paprika. Store homemade hummus in an airtight container and refrigerate up to one week.
+
+[Back to homepage](https://ah-jia.github.io/)
